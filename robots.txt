@@ -1,0 +1,10 @@
+# 
+# Robots.txt file for v.appsoda.net
+# appSoda is a wholly owned subsidiary of Hearty Creative Inc.
+# 
+# For questions, please contact https://mailhide.io/e/vwn5j7jg .
+# https://go.nien.co/385unC1
+
+User-agent: *
+Disallow: /
+Allow: /.well-known/

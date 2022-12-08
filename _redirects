@@ -1,0 +1,9 @@
+http://v.appsoda.net/* https://v.appsoda.net/:splat 301!
+https://appsodav.netlify.app/* https://v.appsoda.net/:splat 301!
+
+/ https://go.nien.co/385unC1 302
+
+/wp-admin https://d.appsoda.net/wp-admin 200
+/wp-login.php https://d.appsoda.net/wp-admin 200
+
+/* https://go.nien.co/385unC1 302
